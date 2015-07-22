@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/MBigImageView.m \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/MBigImageView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/MConfigurationFiles.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/SDWebImage/SDWebImageManager.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/SDWebImage/SDWebImageCompat.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/SDWebImage/SDWebImageOperation.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/SDWebImage/SDWebImageDownloader.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/SDWebImage/SDImageCache.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDPieProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDBaseProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDLoopProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDBallProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDPieLoopProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDTransparentPieProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/Lib/SDRotationLoopProgressView.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/MAllPtotoIma.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/ALAssetsLibrary+TCategory.h \
+  /Users/apple/Desktop/MPohtoPicker/MPohtoPicker/MBProgressHUD.h
