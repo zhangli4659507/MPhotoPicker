@@ -663,7 +663,7 @@
 				INFOPLIST_FILE = MPohtoPickerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = MPhotoPickerTests;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPohtoPicker.app/MPohtoPicker";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPhotoPicker.app/MPhotoPicker";
 			};
 			name = Debug;
 		};
@@ -678,7 +678,7 @@
 				INFOPLIST_FILE = MPohtoPickerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = MPhotoPickerTests;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPohtoPicker.app/MPohtoPicker";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MPhotoPicker.app/MPhotoPicker";
 			};
 			name = Release;
 		};
